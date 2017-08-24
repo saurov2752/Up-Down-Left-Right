@@ -1,0 +1,9 @@
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\bin\Debug\EtchAndSketch.exe.config
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\bin\Debug\EtchAndSketch.exe
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\bin\Debug\EtchAndSketch.pdb
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.csprojResolveAssemblyReference.cache
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.EtchAndSketch.resources
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.Properties.Resources.resources
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.csproj.GenerateResource.Cache
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.exe
+H:\.DOT NET\Code\Windows Application\EtchAndSketch\EtchAndSketch\obj\Debug\EtchAndSketch.pdb
